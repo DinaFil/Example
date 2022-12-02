@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\bin\Debug\net6.0\Evample006_Base.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\bin\Debug\net6.0\Evample006_Base.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\bin\Debug\net6.0\Evample006_Base.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\bin\Debug\net6.0\Evample006_Base.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\bin\Debug\net6.0\Evample006_Base.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\refint\Evample006_Base.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\Evample006_Base.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Evample006_Base\obj\Debug\net6.0\ref\Evample006_Base.dll
