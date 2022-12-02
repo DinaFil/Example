@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\bin\Debug\net6.0\EXAMPLE007_Magic.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\bin\Debug\net6.0\EXAMPLE007_Magic.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\bin\Debug\net6.0\EXAMPLE007_Magic.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\bin\Debug\net6.0\EXAMPLE007_Magic.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\bin\Debug\net6.0\EXAMPLE007_Magic.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\refint\EXAMPLE007_Magic.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\EXAMPLE007_Magic.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\EXAMPLE007_Magic\obj\Debug\net6.0\ref\EXAMPLE007_Magic.dll
