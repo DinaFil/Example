@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\EXAMPLE007_Magic\\EXAMPLE007_Magic.csproj": {}
+    "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\Example007_Magic\\EXAMPLE007_Magic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\EXAMPLE007_Magic\\EXAMPLE007_Magic.csproj": {
+    "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\Example007_Magic\\EXAMPLE007_Magic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\EXAMPLE007_Magic\\EXAMPLE007_Magic.csproj",
+        "projectUniqueName": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\Example007_Magic\\EXAMPLE007_Magic.csproj",
         "projectName": "EXAMPLE007_Magic",
-        "projectPath": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\EXAMPLE007_Magic\\EXAMPLE007_Magic.csproj",
+        "projectPath": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\Example007_Magic\\EXAMPLE007_Magic.csproj",
         "packagesPath": "C:\\Users\\Filippov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\EXAMPLE007_Magic\\obj\\",
+        "outputPath": "C:\\Users\\Filippov\\Documents\\Учеба Дина\\C#\\Лекции\\Example\\Example007_Magic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filippov\\AppData\\Roaming\\NuGet\\NuGet.Config"
