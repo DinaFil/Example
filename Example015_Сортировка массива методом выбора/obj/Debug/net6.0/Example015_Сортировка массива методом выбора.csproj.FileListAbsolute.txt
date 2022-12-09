@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\bin\Debug\net6.0\Example015_Сортировка массива методом выбора.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\bin\Debug\net6.0\Example015_Сортировка массива методом выбора.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\bin\Debug\net6.0\Example015_Сортировка массива методом выбора.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\bin\Debug\net6.0\Example015_Сортировка массива методом выбора.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\bin\Debug\net6.0\Example015_Сортировка массива методом выбора.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\refint\Example015_Сортировка массива методом выбора.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\Example015_Сортировка массива методом выбора.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example015_Сортировка массива методом выбора\obj\Debug\net6.0\ref\Example015_Сортировка массива методом выбора.dll
