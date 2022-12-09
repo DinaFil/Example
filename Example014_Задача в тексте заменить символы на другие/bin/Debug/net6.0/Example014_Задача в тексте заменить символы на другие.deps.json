@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example014_Задача в тексте заменить символы на другие/1.0.0": {
+        "runtime": {
+          "Example014_Задача в тексте заменить символы на другие.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example014_Задача в тексте заменить символы на другие/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

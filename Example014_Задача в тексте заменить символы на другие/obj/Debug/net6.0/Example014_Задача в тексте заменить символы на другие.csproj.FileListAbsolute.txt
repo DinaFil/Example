@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\bin\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\bin\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\bin\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\bin\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\bin\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\refint\Example014_Задача в тексте заменить символы на другие.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\Example014_Задача в тексте заменить символы на другие.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Лекции\Example\Example014_Задача в тексте заменить символы на другие\obj\Debug\net6.0\ref\Example014_Задача в тексте заменить символы на другие.dll
